@@ -1,0 +1,17 @@
+.jumbotron {
+    background-image: url(https://www.kbc-pr.com/wp-content/uploads/2019/03/Utah-Spike-150-banner.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: rgb(255, 115, 50);
+
+}
+
+body {
+    font-family: 'Special Elite', cursive;
+    color: rgb(255, 115, 50);
+}
+
+.btn {
+    color: rgb(255, 115, 50);
+    background-color: black;
+}
